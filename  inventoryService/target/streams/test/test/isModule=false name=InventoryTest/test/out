@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mInventoryTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- take input test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- add Item[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Check for filter price[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- check for filter rating[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- check for find by id[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- check for failed case by id[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- check for find by Category[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- check for failed case by Category[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- check for fail by Category [0m[0m

@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/knolkart/apiService/src/main/scala/edu/Knoldus/FactoryClass.scala:13:12: value filterItemsPrice is not a member of edu.knoldus.knolkart.services.ItemsServiceCall[0m
+[0m[[0m[31merror[0m] [0m[0m  itemsObj.filterItemsPrice(listOfItems,"low to high")[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

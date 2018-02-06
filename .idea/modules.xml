@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account.iml" filepath="$PROJECT_DIR$/.idea/modules/account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/account-build.iml" filepath="$PROJECT_DIR$/.idea/modules/account-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api.iml" filepath="$PROJECT_DIR$/.idea/modules/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checkout.iml" filepath="$PROJECT_DIR$/.idea/modules/checkout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/checkout-build.iml" filepath="$PROJECT_DIR$/.idea/modules/checkout-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dashboard-build.iml" filepath="$PROJECT_DIR$/.idea/modules/dashboard-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory-build.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root.iml" filepath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/root-build.iml" filepath="$PROJECT_DIR$/.idea/modules/root-build.iml" />
+    </modules>
+  </component>
+</project>

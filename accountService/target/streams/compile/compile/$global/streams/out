@@ -1,0 +1,5 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/knolkart/accountService/src/main/scala/edu/knoldus/services/UserServiceProvider.scala:37:5: match may not be exhaustive.[0m
+[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: List(_, _), Nil[0m
+[0m[[0m[33mwarn[0m] [0m[0m    user match {[0m
+[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
