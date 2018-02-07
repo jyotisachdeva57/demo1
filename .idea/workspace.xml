@@ -2,337 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37ffc2e5-6f1e-4f82-b6a3-04f7a6c9b926" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala" afterPath="$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/classes/edu/knoldus/knolkart/services/ItemsServiceCall.class" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/classes/edu/knoldus/knolkart/services/ItemsServiceCall.class" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-compile-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-compile.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-optional.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-plugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-provided.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-runtime-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-runtime.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-scala-tool.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-scoveragePlugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-test-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory$sources-test.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-compile.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-optional.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-plugin.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-pom.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-provided.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-runtime.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scoveragePlugin.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-test.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/test-classes/InventoryTest.class" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/test-classes/InventoryTest.class" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scalastyle-result.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/scalastyle/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncremental/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/definedTests/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/$global/streams/succeeded_tests" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/isModule=false name=InventoryTest/test/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/isModule=false name=InventoryTest/test/out" />
-      <change beforePath="$PROJECT_DIR$/ inventoryService/target/test-reports/InventoryTest.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/test-reports/InventoryTest.xml" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/src/test/scala/edu/knoldus/AccountTest.scala" afterPath="$PROJECT_DIR$/accountService/src/test/scala/edu/knoldus/AccountTest.scala" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/classes/edu/knoldus/services/UserServiceProvider.class" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/classes/edu/knoldus/services/UserServiceProvider.class" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-compile-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-compile.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-optional.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-plugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-provided.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-runtime-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-runtime.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-scala-tool.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-scoveragePlugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-test-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account$sources-test.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-compile.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-optional.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-plugin.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-pom.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-provided.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-runtime.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scoveragePlugin.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-test.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/test-classes/edu/knoldus/AccountTest.class" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/test-classes/edu/knoldus/AccountTest.class" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/scalastyle-result.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/accountService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/accountService/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/accountService/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/accountService/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/scalastyle/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/accountService/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/accountService/target/streams/test/compileIncremental/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/test/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/test/definedTests/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/accountService/target/streams/test/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/accountService/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/accountService/target/streams/test/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/accountService/target/streams/test/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/test/test/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/accountService/target/streams/test/test/$global/streams/succeeded_tests" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/test/isModule=false name=edu.knoldus.AccountTest/test/out" afterPath="$PROJECT_DIR$/accountService/target/streams/test/test/isModule=false name=edu.knoldus.AccountTest/test/out" />
-      <change beforePath="$PROJECT_DIR$/accountService/target/test-reports/edu.knoldus.AccountTest.xml" afterPath="$PROJECT_DIR$/accountService/target/test-reports/edu.knoldus.AccountTest.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/classes/edu/Knoldus/FactoryClass.class" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/classes/edu/Knoldus/FactoryClass.class" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-compile-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-compile.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-optional.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-plugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-provided.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-runtime-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-runtime.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-scala-tool.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-scoveragePlugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-test-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api$sources-test.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-compile.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-optional.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-plugin.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-pom.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-provided.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-runtime.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-scoveragePlugin.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-test.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/scalastyle-result.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/apiService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/compile/compile/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/apiService/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/apiService/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/apiService/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/scalastyle/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/test/definedTests/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/apiService/target/streams/test/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/apiService/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/test/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/apiService/target/streams/test/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/apiService/target/streams/test/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/apiService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/test/test/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/checkOutService.scala" afterPath="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/checkOutService.scala" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/classes/edu/knoldus/models/UserCart$.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/classes/edu/knoldus/models/UserCart.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/classes/edu/knoldus/services/UserCartList.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/classes/edu/knoldus/services/checkOutService.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-compile-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-compile.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-optional.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-plugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-provided.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-runtime-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-runtime.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-scala-tool.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-scoveragePlugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-test-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout$sources-test.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-optional.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-plugin.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-pom.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-provided.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scoveragePlugin.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-test.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/test-classes/edu/knoldus/CheckoutTest.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/scalastyle-result.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/$global/projectDescriptors/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/$global/projectDescriptors/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/checkoutService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/compileIncremental/$global/streams/export" afterPath="$PROJECT_DIR$/checkoutService/target/streams/compile/compileIncremental/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/checkoutService/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/exportedProducts/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/checkoutService/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/checkoutService/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/scalastyle/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/runtime/exportedProducts/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/$global/$global/definedTestNames/data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/$global/$global/discoveredMainClasses/data" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/compile/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/test/compile/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/compileIncremental/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/compileIncremental/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/definedTests/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/exportedProducts/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/checkoutService/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/fullClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/internalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/loadedTestFrameworks/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/checkoutService/target/streams/test/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/test/test/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/test/$global/streams/succeeded_tests" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/test/isModule=false name=edu.knoldus.CheckoutTest/test/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/checkoutService/target/test-reports/edu.knoldus.CheckoutTest.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard$sources/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard$sources/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-compile-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-compile.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-optional.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-plugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-provided.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-runtime-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-runtime.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-scala-tool.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-scoveragePlugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-test-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard$sources-test.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-compile.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-optional.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-plugin.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-pom.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-provided.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-runtime.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-scoveragePlugin.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-test.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/scalastyle-result.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/dashboardService/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/dashboardService/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/dashboardService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/dashboardService/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/dashboardService/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/dashboardService/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/compile/scalastyle/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/dashboardService/target/streams/test/definedTests/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/dashboardService/target/streams/test/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/dashboardService/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/test/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/dashboardService/target/streams/test/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/dashboardService/target/streams/test/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/dashboardService/target/streams/test/test/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart$sources/0.1/resolved.xml.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart$sources/0.1/resolved.xml.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart_2.12/0.1/resolved.xml.properties" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart_2.12/0.1/resolved.xml.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-compile-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-compile.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-optional.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-plugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-pom.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-provided.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-runtime-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-runtime.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-scala-tool.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-scoveragePlugin.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-test-internal.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart$sources-test.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-compile-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-compile.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-optional.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-plugin.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-pom.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-provided.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-runtime-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-runtime.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-scala-tool.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-scoveragePlugin.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-test-internal.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-test.xml" />
-      <change beforePath="$PROJECT_DIR$/target/scalastyle-result.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/scalastyle/$global/streams/out" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/dependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/fullClasspath/$global/streams/export" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -444,11 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            <state relative-caret-position="144">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -464,7 +135,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/accountService/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="415">
@@ -531,9 +202,9 @@
         <option value="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/models/UserCart.scala" />
         <option value="$PROJECT_DIR$/accountService/src/test/scala/edu/knoldus/AccountTest.scala" />
         <option value="$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/ inventoryService/.gitignore" />
         <option value="$PROJECT_DIR$/accountService/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -1495,14 +1166,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ inventoryService/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
@@ -1515,6 +1178,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
           <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
