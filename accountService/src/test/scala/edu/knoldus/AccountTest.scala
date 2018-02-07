@@ -45,4 +45,10 @@ class AccountTest extends FunSuite {
     assert (input !== -1)
   }
 
+  test("Failed access token") {
+    val listOfItems = UserList(List(User(12345678,"jyoti","abcd")))
+    val input = invenObj.returnAccessToken("jyoti","abc",listOfItems)
+    assert (input === -1)
+  }
+
 }

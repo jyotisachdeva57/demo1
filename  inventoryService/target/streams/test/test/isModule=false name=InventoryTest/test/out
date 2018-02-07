@@ -1,10 +1,16 @@
 [0m[[0m[0minfo[0m] [0m[0m[32mInventoryTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- take input test[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- add Item[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- Check for filter price[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m- check for filter rating[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort on price low to high[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort on price high to low[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort on price[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort on rating low to high[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort on rating default[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort on rating high to low[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- check for find by id[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- check for failed case by id[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- check for find by Category[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- check for failed case by Category[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- check for fail by Category [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- available items test  *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  InventoryList(List(Item(2,1,b,cloth,jeans,100.0,1,Vendor(a,1)))) did not equal List(Item(2,1,b,soap,a,100.0,1,Vendor(a,1))) (InventoryTest.scala:136)[0m[0m

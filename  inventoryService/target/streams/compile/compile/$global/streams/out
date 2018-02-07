@@ -1,4 +1,5 @@
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/knolkart/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/ItemsServiceCall.scala:9:7: class ItemsServiceCall needs to be abstract, since method availableItems in trait InventoryService of type (inventory: edu.knoldus.knolkart.models.InventoryList, number: Int)edu.knoldus.knolkart.models.InventoryList is not defined[0m
-[0m[[0m[31merror[0m] [0m[0mclass ItemsServiceCall extends InventoryService {[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Cleaning datadir [/home/knoldus/IdeaProjects/knolkart/ inventoryService/target/scala-2.12/scoverage-data][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Beginning coverage instrumentation[0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Instrumentation completed [48 statements][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Wrote instrumentation file [/home/knoldus/IdeaProjects/knolkart/ inventoryService/target/scala-2.12/scoverage-data/scoverage.coverage.xml][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Will write measurement data to [/home/knoldus/IdeaProjects/knolkart/ inventoryService/target/scala-2.12/scoverage-data][0m

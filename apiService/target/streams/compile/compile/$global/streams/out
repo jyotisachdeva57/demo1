@@ -1,4 +1,5 @@
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/knolkart/apiService/src/main/scala/edu/Knoldus/FactoryClass.scala:13:12: value filterItemsPrice is not a member of edu.knoldus.knolkart.services.ItemsServiceCall[0m
-[0m[[0m[31merror[0m] [0m[0m  itemsObj.filterItemsPrice(listOfItems,"low to high")[0m
-[0m[[0m[31merror[0m] [0m[0m           ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Cleaning datadir [/home/knoldus/IdeaProjects/knolkart/apiService/target/scala-2.12/scoverage-data][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Beginning coverage instrumentation[0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Instrumentation completed [24 statements][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Wrote instrumentation file [/home/knoldus/IdeaProjects/knolkart/apiService/target/scala-2.12/scoverage-data/scoverage.coverage.xml][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Will write measurement data to [/home/knoldus/IdeaProjects/knolkart/apiService/target/scala-2.12/scoverage-data][0m

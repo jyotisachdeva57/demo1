@@ -1,4 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/knolkart/checkoutService/src/test/scala/edu/knoldus/CheckoutTest.scala:15:22: value addToCart is not a member of edu.knoldus.services.UserCartList[0m
-[0m[[0m[31merror[0m] [0m[0m    val input = user.addToCart(item,userCart,12345678)[0m
-[0m[[0m[31merror[0m] [0m[0m                     ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -7,7 +7,7 @@
 		revision="0.1.0-SNAPSHOT"
 		conf="plugin"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool, scoveragePlugin"
-		date="20180206181431"/>
+		date="20180207102117"/>
 	<dependencies>
 	</dependencies>
 </ivy-report>

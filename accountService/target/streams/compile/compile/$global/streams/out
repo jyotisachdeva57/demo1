@@ -1,5 +1,5 @@
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/IdeaProjects/knolkart/accountService/src/main/scala/edu/knoldus/services/UserServiceProvider.scala:37:5: match may not be exhaustive.[0m
-[0m[[0m[33mwarn[0m] [0m[0mIt would fail on the following inputs: List(_, _), Nil[0m
-[0m[[0m[33mwarn[0m] [0m[0m    user match {[0m
-[0m[[0m[33mwarn[0m] [0m[0m    ^[0m
-[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Cleaning datadir [/home/knoldus/IdeaProjects/knolkart/accountService/target/scala-2.12/scoverage-data][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Beginning coverage instrumentation[0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Instrumentation completed [21 statements][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Wrote instrumentation file [/home/knoldus/IdeaProjects/knolkart/accountService/target/scala-2.12/scoverage-data/scoverage.coverage.xml][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Will write measurement data to [/home/knoldus/IdeaProjects/knolkart/accountService/target/scala-2.12/scoverage-data][0m

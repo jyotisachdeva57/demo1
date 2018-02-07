@@ -1,3 +1,0 @@
-[0m[[0m[0minfo[0m] [0m[0m[32mCheckoutTest:[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- add User *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  Map() did not equal User(12345678,jyoti,abcd) (CheckoutTest.scala:25)[0m[0m
