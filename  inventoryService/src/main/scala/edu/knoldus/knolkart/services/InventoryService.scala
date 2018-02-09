@@ -5,7 +5,7 @@ import scala.concurrent.Future
 
 trait InventoryService {
 
-  def sortItemsRating(inventory: InventoryList,filterParameter: String): Future[List[Item]]
+  def sortItemsRating(inventory: InventoryList, filterParameter: String): Future[List[Item]]
 
   def addItem(inventory: InventoryList, item: Item): InventoryList
 
@@ -18,6 +18,8 @@ trait InventoryService {
   def sortItemsPrice(inventory: InventoryList, category: String): Future[List[Item]]
 
   def findByCategory(products: InventoryList, category: String): Future[List[Item]]
+
+  def updateInventory(products: InventoryList, itemID: Int, count: Int, f: (Int, Int) => Int): Future[InventoryList]
 }
 
 

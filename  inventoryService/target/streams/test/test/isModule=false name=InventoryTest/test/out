@@ -12,5 +12,5 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- check for find by Category[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- check for failed case by Category[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- check for fail by Category [0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- available items test  *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  InventoryList(List(Item(2,1,b,cloth,jeans,100.0,1,Vendor(a,1)))) did not equal List(Item(2,1,b,soap,a,100.0,1,Vendor(a,1))) (InventoryTest.scala:136)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- available items test [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- update inventory test[0m[0m

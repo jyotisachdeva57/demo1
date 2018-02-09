@@ -21,17 +21,6 @@ class UserServiceProvider {
     val obj = User(mobNum, userName, password)
     obj
   }
-//    implicit val accesstoken = "abcd"
-//    import scala.io.StdIn._
-//    val log = Logger.getLogger(this.getClass)
-//    log.info("\n ENTER USER NAME")
-//    val name = readLine()
-//    log.info("ENTER USER MOBILE NUMBER\n")
-//    val mobNum = readInt()
-//    log.info("ENTER USER PASSWORD\n")
-//    val password = readLine()
-//
-//  }
 
   def authenticateUser(userName: String, password: String, userList: UserList): Boolean = {
     userList.listOfUsers.exists(x => x.userName == userName && x.password == password)

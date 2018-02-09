@@ -1,16 +1,5 @@
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/knolkart/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala:29:10: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : scala.collection.immutable.Iterable[Double][0m
-[0m[[0m[31merror[0m] [0m[0m required: Double[0m
-[0m[[0m[31merror[0m] [0m[0m    user map {[0m
-[0m[[0m[31merror[0m] [0m[0m         ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/knolkart/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala:39:12: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : scala.collection.immutable.Iterable[scala.collection.immutable.Map[Int,List[edu.knoldus.knolkart.models.Item]]][0m
-[0m[[0m[31merror[0m] [0m[0m required: scala.collection.Map[Int,List[edu.knoldus.knolkart.models.Item]][0m
-[0m[[0m[31merror[0m] [0m[0m      hold map {[0m
-[0m[[0m[31merror[0m] [0m[0m           ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/knolkart/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala:47:38: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : edu.knoldus.knolkart.models.Item[0m
-[0m[[0m[31merror[0m] [0m[0m required: List[edu.knoldus.knolkart.models.Item][0m
-[0m[[0m[31merror[0m] [0m[0m        cart.userMap + (mobileNum -> item)[0m
-[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
-[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Cleaning datadir [/home/knoldus/IdeaProjects/knolkart/checkoutService/target/scala-2.12/scoverage-data][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Beginning coverage instrumentation[0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Instrumentation completed [44 statements][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Wrote instrumentation file [/home/knoldus/IdeaProjects/knolkart/checkoutService/target/scala-2.12/scoverage-data/scoverage.coverage.xml][0m
+[0m[[0m[0minfo[0m] [0m[0m[info] Will write measurement data to [/home/knoldus/IdeaProjects/knolkart/checkoutService/target/scala-2.12/scoverage-data][0m

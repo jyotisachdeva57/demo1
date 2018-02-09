@@ -833,17 +833,17 @@
 [0m[[0m[0mdebug[0m] [0m[0mignoring unhandled DependencyDescriptorMediator: class sbt.internal.librarymanagement.IvyScalaUtil$OverrideScalaMediator[0m
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.12.4!scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] log4j#log4j;1.2.17!log4j.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.5!scala-xml_2.12.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.4!scalatest_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4!scala-parser-combinators_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.4!scalactic_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.4!scala-compiler.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.4!scala-reflect.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] log4j#log4j;1.2.17!log4j.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.5!jline.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.4!scalatest_2.12.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.12.4!scala-library.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 304ms :: artifacts dl 9ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 267ms :: artifacts dl 10ms[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for account#account_2.12;0.1.0-SNAPSHOT compile produced in /home/knoldus/IdeaProjects/knolkart/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-compile.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for account#account_2.12;0.1.0-SNAPSHOT runtime produced in /home/knoldus/IdeaProjects/knolkart/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-runtime.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for account#account_2.12;0.1.0-SNAPSHOT test produced in /home/knoldus/IdeaProjects/knolkart/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-test.xml[0m
@@ -856,5 +856,5 @@
 [0m[[0m[0mdebug[0m] [0m[0m	report for account#account_2.12;0.1.0-SNAPSHOT pom produced in /home/knoldus/IdeaProjects/knolkart/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-pom.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for account#account_2.12;0.1.0-SNAPSHOT scala-tool produced in /home/knoldus/IdeaProjects/knolkart/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scala-tool.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for account#account_2.12;0.1.0-SNAPSHOT scoveragePlugin produced in /home/knoldus/IdeaProjects/knolkart/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scoveragePlugin.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (304ms resolve - 9ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (267ms resolve - 10ms download)[0m
 [0m[[0m[0minfo[0m] [0m[0mDone updating.[0m

@@ -39,7 +39,6 @@
 [0m[[0m[0mdebug[0m] [0m[0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.4 {scala-tool=[default, optional(default)]}[0m
 [0m[[0m[0mdebug[0m] [0m[0mdependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.4 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.4 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.4 {scala-tool=[default, optional(default)], compile=[default(compile)]}[0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: log4j#log4j;1.2.17 {compile=[default(compile)]}[0m
-[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/knoldus/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: module revision found in cache: log4j#log4j;1.2.17[0m
 [0m[[0m[0mdebug[0m] [0m[0m	found log4j#log4j;1.2.17 in sbt-chain[0m
 [0m[[0m[0mdebug[0m] [0m[0m== resolving dependencies account#account_2.12;0.1.0-SNAPSHOT->log4j#log4j;1.2.17 [compile->runtime][0m
@@ -269,6 +268,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.4 {scala-tool=[default, optional(default)]} => dependency: org.scala-lang#scala-compiler;2.12.4 {scala-tool=[default, optional(default)]}[0m
 [0m[[0m[0mdebug[0m] [0m[0mdependency descriptor has been mediated: MergedDescriptors(dependency: org.scala-lang#scala-library;2.12.4 {scala-tool=[default, optional(default)]},dependency: org.scala-lang#scala-library;2.12.4 {compile=[default(compile)]}) => dependency: org.scala-lang#scala-library;2.12.4 {scala-tool=[default, optional(default)], compile=[default(compile)]}[0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: Checking cache for: dependency: org.scalactic#scalactic_2.12;3.0.4 {compile=[compile(*), master(compile)], runtime=[runtime(*)]}[0m
+[0m[[0m[0mdebug[0m] [0m[0mno default cache defined: set to /home/knoldus/.ivy2/cache[0m
 [0m[[0m[0mdebug[0m] [0m[0msbt-chain: module revision found in cache: org.scalactic#scalactic_2.12;3.0.4[0m
 [0m[[0m[0mdebug[0m] [0m[0m	found org.scalactic#scalactic_2.12;3.0.4 in sbt-chain[0m
 [0m[[0m[0mdebug[0m] [0m[0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-compiler;2.12.3 {provided=[compile(*), provided(*), runtime(*), master(compile)]} => dependency: org.scala-lang#scala-compiler;2.12.4 {provided=[compile(*), provided(*), runtime(*), master(compile)]}[0m
@@ -1149,16 +1149,16 @@
 [0m[[0m[0mdebug[0m] [0m[0m	resolved ivy file produced in cache[0m
 [0m[[0m[0mdebug[0m] [0m[0m:: downloading artifacts ::[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-library;2.12.4!scala-library.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] log4j#log4j;1.2.17!log4j.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.4!scalatest_2.12.jar(bundle)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.4!scalactic_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.4!scala-reflect.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.5!scala-xml_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.12;1.0.4!scala-parser-combinators_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.4!scala-compiler.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(bundle)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] jline#jline;2.14.5!jline.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 234ms :: artifacts dl 12ms[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] log4j#log4j;1.2.17!log4j.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.4!scalatest_2.12.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.4!scalactic_2.12.jar(bundle)[0m
+[0m[[0m[0mdebug[0m] [0m[0m:: resolution report :: resolve 216ms :: artifacts dl 12ms[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for checkout#checkout_2.12;0.1.0-SNAPSHOT compile produced in /home/knoldus/IdeaProjects/knolkart/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for checkout#checkout_2.12;0.1.0-SNAPSHOT runtime produced in /home/knoldus/IdeaProjects/knolkart/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for checkout#checkout_2.12;0.1.0-SNAPSHOT test produced in /home/knoldus/IdeaProjects/knolkart/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-test.xml[0m
@@ -1171,5 +1171,5 @@
 [0m[[0m[0mdebug[0m] [0m[0m	report for checkout#checkout_2.12;0.1.0-SNAPSHOT pom produced in /home/knoldus/IdeaProjects/knolkart/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-pom.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for checkout#checkout_2.12;0.1.0-SNAPSHOT scala-tool produced in /home/knoldus/IdeaProjects/knolkart/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scala-tool.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0m	report for checkout#checkout_2.12;0.1.0-SNAPSHOT scoveragePlugin produced in /home/knoldus/IdeaProjects/knolkart/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scoveragePlugin.xml[0m
-[0m[[0m[0mdebug[0m] [0m[0m	resolve done (234ms resolve - 12ms download)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	resolve done (216ms resolve - 12ms download)[0m
 [0m[[0m[0minfo[0m] [0m[0mDone updating.[0m

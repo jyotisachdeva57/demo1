@@ -22,25 +22,6 @@ class ItemsServiceCall extends InventoryService {
     val item = Item(first, first, testVal, testDesc, testVal, second, first, Vendor(testVal, first))
     item
   }
-    import scala.io.StdIn._
-//    val log = Logger.getLogger(this.getClass)
-//    log.info("\n ENTER PRODUCT ID")
-//    val productID = readInt()
-//    log.info("ENTER PRODUCT NAME\n")
-//    val productName = readLine()
-//    log.info("ENTER PRODUCT DESCRIPTION\n")
-//    val productDesc = readLine()
-//    log.info("ENTER PRODUCT CATEGORY\n")
-//    val productCategory = readLine()
-//    log.info("ENTER PRODUCT PRICE\n")
-//    val productPrice = readDouble()
-//    log.info("ENTER PRODUCT COUNT\n")
-//    val productCount = readInt()
-//    log.info("ENTER VENDOR NAME\n")
-//    val vendorName = readLine()
-//    log.info("ENTER VENDOR ID\n")
-//    val vendorID = readInt()
-//    Item(productID, productName, productDesc, productCategory, productPrice, productCount, Vendor(vendorName, vendorID))
 
 
   def sortItemsRating(inventory: InventoryList, filterParameter: String): Future[List[Item]] = {
@@ -86,6 +67,18 @@ class ItemsServiceCall extends InventoryService {
       case num if length > num => InventoryList(inventory.listOfItems.take(num))
       case size if length > number => InventoryList(inventory.listOfItems.take(number))
       case _ => InventoryList(inventory.listOfItems)
+    }
+  }
+
+  def updateInventory(products: InventoryList, itemID: Int, count: Int, f: (Int, Int) => Int): Future[InventoryList] = {
+    val hold = products.listOfItems.filter(x => x.productID != itemID)
+    Future {
+      val oldCount = products.listOfItems.filter(_.productID == itemID)(0)
+      if (count != 0) {
+        val newProduct = oldCount.copy(productCount = f(oldCount.productCount, count))
+        InventoryList(hold :+ newProduct)
+      }
+      else products
     }
   }
 

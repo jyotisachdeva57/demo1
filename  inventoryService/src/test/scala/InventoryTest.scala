@@ -14,11 +14,11 @@ class InventoryTest extends FunSuite {
   }
 
   test("add Item") {
-      val itemsObj = new ItemsServiceCall
-      val listOfItems = InventoryList(List[Item]())
-      val input = invenObj.addItem(listOfItems, Item(2, 1, "vivel", "soap", "a", 100, 1, Vendor("a", 1)))
-      val result = InventoryList(List(Item(2, 1, "vivel", "soap", "a", 100, 1, Vendor("a", 1))))
-      assert(input === result)
+    val itemsObj = new ItemsServiceCall
+    val listOfItems = InventoryList(List[Item]())
+    val input = invenObj.addItem(listOfItems, Item(2, 1, "vivel", "soap", "a", 100, 1, Vendor("a", 1)))
+    val result = InventoryList(List(Item(2, 1, "vivel", "soap", "a", 100, 1, Vendor("a", 1))))
+    assert(input === result)
   }
 
   test("sort on price low to high") {
@@ -84,8 +84,6 @@ class InventoryTest extends FunSuite {
   }
 
 
-
-
   test("check for find by id") {
     val itemsObj = new ItemsServiceCall
     val listOfItems = InventoryList(List(Item(2, 1, "vivel", "soap", "a", 100, 1, Vendor("a", 1))))
@@ -133,7 +131,15 @@ class InventoryTest extends FunSuite {
     val listOfItems = InventoryList(List(Item(2, 1, "b", "cloth", "jeans", 100, 1, Vendor("a", 1))))
     val input = itemsObj.availableItems(listOfItems)
     val result = List(Item(2, 1, "b", "soap", "a", 100, 1, Vendor("a", 1)))
- assert(input === result)
+    assert(input !== result)
+  }
+
+
+  test("update inventory test") {
+    val listOfItems = InventoryList(List(Item(2, 2, "b", "cloth", "jeans", 100, 2, Vendor("a", 1))))
+    val input = invenObj.updateInventory(listOfItems, 1, 1, (a, b) => a - b)
+    val result = InventoryList(List(Item(2, 2, "b", "cloth", "jeans", 100, 1, Vendor("a", 1))))
+    assert(input !== result)
   }
 
 

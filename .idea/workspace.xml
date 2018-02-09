@@ -2,8 +2,141 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37ffc2e5-6f1e-4f82-b6a3-04f7a6c9b926" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/InventoryService.scala" afterPath="$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/InventoryService.scala" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/ItemsServiceCall.scala" afterPath="$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/ItemsServiceCall.scala" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala" afterPath="$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/classes/edu/knoldus/knolkart/services/InventoryService.class" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/classes/edu/knoldus/knolkart/services/InventoryService.class" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/classes/edu/knoldus/knolkart/services/ItemsServiceCall.class" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/classes/edu/knoldus/knolkart/services/ItemsServiceCall.class" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/inventory/inventory_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-compile.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-optional.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-plugin.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-pom.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-provided.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-runtime.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-scoveragePlugin.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-test.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/resolution-cache/reports/inventory-inventory_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/test-classes/InventoryTest.class" afterPath="$PROJECT_DIR$/ inventoryService/target/scala-2.12/test-classes/InventoryTest.class" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compile/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/definedTests/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/$global/streams/succeeded_tests" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/isModule=false name=InventoryTest/test/out" afterPath="$PROJECT_DIR$/ inventoryService/target/streams/test/test/isModule=false name=InventoryTest/test/out" />
+      <change beforePath="$PROJECT_DIR$/ inventoryService/target/test-reports/InventoryTest.xml" afterPath="$PROJECT_DIR$/ inventoryService/target/test-reports/InventoryTest.xml" />
       <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/UserServiceProvider.scala" afterPath="$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/UserServiceProvider.scala" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/account/account_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-compile.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-optional.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-plugin.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-pom.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-provided.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-runtime.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-scoveragePlugin.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-test.xml" afterPath="$PROJECT_DIR$/accountService/target/scala-2.12/resolution-cache/reports/account-account_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/accountService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/accountService/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/test/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/test/definedTests/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/accountService/target/streams/test/test/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/streams/test/test/$global/streams/succeeded_tests" afterPath="$PROJECT_DIR$/accountService/target/streams/test/test/$global/streams/succeeded_tests" />
+      <change beforePath="$PROJECT_DIR$/accountService/target/test-reports/edu.knoldus.AccountTest.xml" afterPath="$PROJECT_DIR$/accountService/target/test-reports/edu.knoldus.AccountTest.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/api/api_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-compile.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-optional.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-plugin.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-pom.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-provided.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-runtime.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-scoveragePlugin.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-test.xml" afterPath="$PROJECT_DIR$/apiService/target/scala-2.12/resolution-cache/reports/api-api_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/apiService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterPath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/test/definedTests/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/apiService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/apiService/target/streams/test/test/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala" afterPath="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/checkOutService.scala" afterPath="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/checkOutService.scala" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/src/test/scala/edu/knoldus/CheckoutTest.scala" afterPath="$PROJECT_DIR$/checkoutService/src/test/scala/edu/knoldus/CheckoutTest.scala" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/checkout/checkout_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-optional.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-plugin.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-pom.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-provided.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-scoveragePlugin.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-test.xml" afterPath="$PROJECT_DIR$/checkoutService/target/scala-2.12/resolution-cache/reports/checkout-checkout_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/checkoutService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/compile/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/compile/compile/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/checkoutService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/checkoutService/target/streams/test/test/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/dashboard/dashboard_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-compile.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-optional.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-plugin.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-pom.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-provided.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-runtime.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-scoveragePlugin.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-test.xml" afterPath="$PROJECT_DIR$/dashboardService/target/scala-2.12/resolution-cache/reports/dashboard-dashboard_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/dashboardService/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/dashboardService/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/test/definedTests/$global/streams/out" afterPath="$PROJECT_DIR$/dashboardService/target/streams/test/definedTests/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/dashboardService/target/streams/test/test/$global/streams/out" afterPath="$PROJECT_DIR$/dashboardService/target/streams/test/test/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart_2.12/0.1/resolved.xml.properties" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart_2.12/0.1/resolved.xml.properties" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart_2.12/0.1/resolved.xml.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/knolkart/knolkart_2.12/0.1/resolved.xml.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-compile-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-compile.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-compile.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-optional.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-optional.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-plugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-pom.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-provided.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-provided.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-runtime-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-runtime.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-runtime.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-scala-tool.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-scoveragePlugin.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-scoveragePlugin.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-test-internal.xml" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-test.xml" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/knolkart-knolkart_2.12-test.xml" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -55,11 +188,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UserCartList.scala" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UserCartList.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-414">
-              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="318">
+              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding>
+                <element signature="e#30#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemsServiceCall.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/ItemsServiceCall.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="82" column="3" lean-forward="false" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InventoryList.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/models/InventoryList.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vendor.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/models/Vendor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InventoryTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2052">
+              <caret line="117" column="3" lean-forward="true" selection-start-line="117" selection-start-column="3" selection-end-line="117" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -75,71 +250,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UserCart.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/models/UserCart.scala">
+      <file leaf-file-name="UserServiceProvider.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/UserServiceProvider.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AccountTest.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accountService/src/test/scala/edu/knoldus/AccountTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InventoryTest.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.sbt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.sbt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ inventoryService/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/accountService/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+            <state relative-caret-position="-96">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -148,11 +263,21 @@
       <file leaf-file-name="checkOutService.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/checkOutService.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="80" lean-forward="false" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
+            <state relative-caret-position="144">
+              <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding>
                 <element signature="e#30#86#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InventoryService.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/InventoryService.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-36">
+              <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -191,24 +316,24 @@
         <option value="$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/models/InventoryList.scala" />
         <option value="$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/models/UserList.scala" />
         <option value="$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/models/User.scala" />
-        <option value="$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/UserServiceProvider.scala" />
-        <option value="$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/InventoryService.scala" />
-        <option value="$PROJECT_DIR$/checkoutService/src/test/scala/edu/knoldus/CheckoutTest.scala" />
         <option value="$PROJECT_DIR$/apiService/src/main/scala/edu/Knoldus/FactoryClass.scala" />
-        <option value="$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/ItemsServiceCall.scala" />
         <option value="$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/ServiceProvider.scala" />
-        <option value="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/checkOutService.scala" />
-        <option value="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala" />
         <option value="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/models/UserCart.scala" />
         <option value="$PROJECT_DIR$/accountService/src/test/scala/edu/knoldus/AccountTest.scala" />
-        <option value="$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala" />
         <option value="$PROJECT_DIR$/ inventoryService/.gitignore" />
         <option value="$PROJECT_DIR$/accountService/.gitignore" />
+        <option value="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/checkOutService.scala" />
+        <option value="$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala" />
+        <option value="$PROJECT_DIR$/checkoutService/src/test/scala/edu/knoldus/CheckoutTest.scala" />
+        <option value="$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/InventoryService.scala" />
+        <option value="$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/ItemsServiceCall.scala" />
+        <option value="$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/UserServiceProvider.scala" />
+        <option value="$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="67" />
     <option name="y" value="25" />
     <option name="width" value="1299" />
@@ -230,7 +355,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -583,6 +709,12 @@
             <path>
               <item name="knolkart" type="b2602c69:ProjectViewProjectNode" />
               <item name="knolkart" type="462c0819:PsiDirectoryNode" />
+              <item name="checkoutService" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knolkart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knolkart" type="462c0819:PsiDirectoryNode" />
               <item name="dashboardService" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -590,24 +722,19 @@
               <item name="knolkart" type="462c0819:PsiDirectoryNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="knolkart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="knolkart" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -805,8 +932,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="780" extended-state="6" />
-    <editor active="true" />
+    <frame x="67" y="25" width="1299" height="780" extended-state="7" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -818,10 +944,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2822823" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2822823" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2852737" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23592907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -876,7 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="61" lean-forward="false" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,7 +1009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="11" column="87" lean-forward="false" selection-start-line="11" selection-start-column="87" selection-end-line="11" selection-end-column="87" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -926,7 +1050,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="32" column="1" lean-forward="false" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding />
+          <folding>
+            <element signature="e#30#86#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -957,7 +1083,7 @@
         <state relative-caret-position="612">
           <caret line="38" column="35" lean-forward="false" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
           <folding>
-            <element signature="e#30#72#0" expanded="true" />
+            <element signature="e#30#72#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -974,7 +1100,7 @@
         <state relative-caret-position="288">
           <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
           <folding>
-            <element signature="e#21#70#0" expanded="true" />
+            <element signature="e#21#70#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -983,7 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="14" column="3" lean-forward="false" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -991,7 +1116,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1021,27 +1145,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/models/Vendor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/models/InventoryList.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/models/Item.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scalastyle-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1049,46 +1152,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/InventoryService.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/ItemsServiceCall.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1404">
-          <caret line="82" column="14" lean-forward="false" selection-start-line="82" selection-start-column="14" selection-end-line="82" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/models/User.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkoutService/src/test/scala/edu/knoldus/CheckoutTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="e#21#70#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/UserServiceProvider.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="19" selection-end-column="25" />
-          <folding>
-            <element signature="e#30#72#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,7 +1163,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1104,57 +1170,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/checkOutService.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="80" lean-forward="false" selection-start-line="13" selection-start-column="80" selection-end-line="13" selection-end-column="80" />
-          <folding>
-            <element signature="e#30#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-414">
-          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/models/UserCart.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="50" lean-forward="false" selection-start-line="4" selection-start-column="50" selection-end-line="4" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/ServiceProvider.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/accountService/src/test/scala/edu/knoldus/AccountTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1168,25 +1183,133 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ inventoryService/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
+        <state relative-caret-position="576">
           <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/accountService/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
+        <state relative-caret-position="576">
           <caret line="32" column="7" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/models/UserCart.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accountService/src/test/scala/edu/knoldus/AccountTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkoutService/src/test/scala/edu/knoldus/CheckoutTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="65" column="51" lean-forward="false" selection-start-line="65" selection-start-column="51" selection-end-line="65" selection-end-column="51" />
+          <folding>
+            <element signature="e#21#70#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/models/Item.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/models/Vendor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/models/InventoryList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/InventoryService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ inventoryService/src/main/scala/edu/knoldus/knolkart/services/ItemsServiceCall.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="82" column="3" lean-forward="false" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ inventoryService/src/test/scala/InventoryTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="117" column="3" lean-forward="true" selection-start-line="117" selection-start-column="3" selection-end-line="117" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/ServiceProvider.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accountService/src/main/scala/edu/knoldus/services/UserServiceProvider.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-96">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/checkOutService.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="e#30#86#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="576">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/checkoutService/src/main/scala/edu/knoldus/services/UserCartList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#30#86#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
